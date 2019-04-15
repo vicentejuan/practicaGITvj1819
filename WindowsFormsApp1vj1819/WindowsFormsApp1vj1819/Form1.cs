@@ -35,6 +35,11 @@ namespace WindowsFormsApp1vj1819
             listaAlumnos.AppendText(miAlumnoStr);
             misAlumnos.Agregar(miAlumno);
         }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     class Alumno
     {
